@@ -1,0 +1,14 @@
+{
+  "name": "node-react-tut",
+  "version": "1.0.0",
+  "description": "React & Node tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "JErod",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
